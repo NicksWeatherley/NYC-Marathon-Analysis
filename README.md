@@ -1,0 +1,1 @@
+This project a final project for CSC 217 at City College of New York. Note that all data has been removed and scripts used to scrape said data as to not promote DDOSing any site. If you have any questions please PM me. 
